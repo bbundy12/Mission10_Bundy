@@ -1,0 +1,6 @@
+@bowler_HostAddress = http://localhost:5063
+
+GET {{bowler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
